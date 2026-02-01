@@ -1,6 +1,6 @@
 -- ==============================
 -- DAY 1 — Basic SELECT & WHERE (Beginner)
--- Dataset: students(student_id, name, marks, age, department_id), departments(department_id, department_name)
+-- Dataset: students(student_id, name, marks, age, department_id), departments(department_id, department_name) 
 -- ==============================
 
 USE ds_sql_practice;
