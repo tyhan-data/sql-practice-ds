@@ -49,8 +49,6 @@
 **Day 6 — Window Functions & Advanced Analytics**
 - `ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`
 - Cumulative sum (`SUM() OVER`), running average (`AVG() OVER`)
-- `LAG()` and `LEAD()` functions
-- Percentile rank with `PERCENT_RANK()`
 - Difference from department average
 
 ---
